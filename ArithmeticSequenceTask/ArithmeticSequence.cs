@@ -17,7 +17,7 @@ namespace ArithmeticSequenceTask
         /// - or -
         /// number is int.MinValue and term less then 0.
         /// </exception>
-        /// <exception cref="ArgumentException">Throw if count less then zero.</exception>
+        /// <exception cref="ArgumentException">Throw if count less than zero.</exception>
         public static int Calculate(int number, int add, int count)
         {
             throw new NotImplementedException("You need to implement this method.");
